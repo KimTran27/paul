@@ -738,7 +738,7 @@ a {
 /* Callout
 /* ------------------------------------------- */
 .callout {
-  background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%), url(../images/wooden.jpg); 
+  background: url(../images/wooden.jpg); 
   color: white;
   text-align: center; }
   .callout .offer {
